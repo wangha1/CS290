@@ -1,0 +1,47 @@
+tbody>tr>th{
+  font-style:italic;
+}
+
+table{
+  border:solid;
+}
+
+th{
+  border:solid;
+}
+
+td{
+  border:solid;
+}
+
+div.outer_content{
+  background-color:pink;
+  width:75%;
+  height:40px;
+  position:relative;
+  top:20px;
+}
+
+div.inner_content{
+  background-color:blue;
+  width:75%;
+  height:75%;
+  position:relative;
+  top:12.5%;
+  bottom:12.5%;
+  left:12.5%;
+  right:12.5%;
+}
+
+div>p{
+  position:relative;
+  top:25%;
+  bottom:25%;
+  left:25%;
+  right:25%;
+}
+
+section.form{
+  position:relative;
+  top:20px;
+}
